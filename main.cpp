@@ -32,16 +32,34 @@ void greatest_divisor() {
     (void)a;
 }
 
+void triangular_number() {
+    int n = 12;
+    int tri = n * (n + 1) / 2;
+    (void)tri;
+}
+
+void product_range() {
+    int acc = 1;
+    for (int i = 1; i <= 5; ++i) acc *= i;
+    (void)acc;
+}
+
 extern "C" int silver_spruce();
-extern "C" void brisk_prism();
-extern "C" void quiet_vale();
+extern "C" void prime_kite();
+extern "C" void mellow_harbor();
+extern "C" void golden_delta();
+extern "C" void lucid_cove();
 
 int main() {
     power_of_two();
     leading_zeros();
     alternate_sum();
     greatest_divisor();
-    brisk_prism();
-    quiet_vale();
+    triangular_number();
+    product_range();
+    prime_kite();
+    mellow_harbor();
+    golden_delta();
+    lucid_cove();
     return silver_spruce();
 }
